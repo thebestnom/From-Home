@@ -4,4 +4,6 @@ jupyter
 notebook
 matplotlib
 bokeh
-pandas-profiling
+pandas-profiling==2.5.0
+scikit-learn
+scipy
