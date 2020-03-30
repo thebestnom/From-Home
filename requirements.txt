@@ -4,3 +4,4 @@ jupyter
 notebook
 matplotlib
 bokeh
+pandas-profiling
